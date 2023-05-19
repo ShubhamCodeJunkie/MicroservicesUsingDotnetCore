@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\smbya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\smbya\\.nuget\\packages"
+    ]
+  }
+}

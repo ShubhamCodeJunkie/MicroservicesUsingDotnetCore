@@ -1,0 +1,131 @@
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.json
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.exe
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.deps.json
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.json
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.dev.json
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.pdb
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.Service.styles.css
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Manifest.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CopyComplete
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\coding_work\Synechron_Training\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.json
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.exe
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.deps.json
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.json
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.dev.json
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.pdb
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.Service.styles.css
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Manifest.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CopyComplete
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+D:\coding_work\Dotnet Microservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.json
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.exe
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.deps.json
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.json
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.dev.json
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.pdb
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.Service.styles.css
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Manifest.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CopyComplete
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
