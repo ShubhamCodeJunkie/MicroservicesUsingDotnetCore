@@ -22,7 +22,7 @@ namespace Play.Common.MongoDB
 
             services.AddSingleton(ServiceProvider =>
             {
-                  var Configuration = ServiceProvider.GetService<IConfiguration>();
+                var Configuration = ServiceProvider.GetService<IConfiguration>();
                 var serviceSettings = Configuration.GetSection(nameof(ServiceSettings)).Get<ServiceSettings>();
                 var mongodbSettings = Configuration.GetSection(nameof(MongodbSettings)).Get<MongodbSettings>();
                 var mongoClient = new MongoClient(mongodbSettings.ConnectionString);

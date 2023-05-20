@@ -20,6 +20,8 @@ using MongoDB.Driver;
 using Play.Catalog.Service.Entities;
 using Play.Common.Settings;
 using Play.Common.MongoDB;
+using MassTransit;
+using Play.Common.MassTransit;
 
 namespace Play.Catalog.Service
 {
@@ -39,7 +41,8 @@ namespace Play.Catalog.Service
         {
             serviceSettings = Configuration.GetSection(nameof(ServiceSettings)).Get<ServiceSettings>();
 
-            services.AddMongo().AddMongoRepository<Item>("items");
+            services.AddMongo().AddMongoRepository<Item>("items").AddMassTransitWithRabbiMq();
+
             services.AddControllers(options =>
             {
                 options.SuppressAsyncSuffixInActionNames = false;

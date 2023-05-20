@@ -1,0 +1,12 @@
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\bin\Debug\net5.0\PLay.Catalog.Contracts.deps.json
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\bin\Debug\net5.0\PLay.Catalog.Contracts.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\bin\Debug\net5.0\PLay.Catalog.Contracts.pdb
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.csproj.AssemblyReference.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.AssemblyInfo.cs
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\refint\PLay.Catalog.Contracts.dll
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\PLay.Catalog.Contracts.pdb
+D:\coding_work\DotnetMicroservices\Play.Catalog\src\PLay.Catalog.Contracts\obj\Debug\net5.0\ref\PLay.Catalog.Contracts.dll

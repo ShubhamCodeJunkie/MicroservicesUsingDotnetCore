@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
+    "D:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
   },
   "projects": {
-    "d:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+    "D:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
+      "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "d:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "D:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
-        "projectPath": "d:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectPath": "D:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
         "packagesPath": "C:\\Users\\smbya\\.nuget\\packages\\",
-        "outputPath": "d:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\obj\\",
+        "outputPath": "D:\\coding_work\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smbya\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net5.0"
         ],
         "sources": {
+          "D:\\coding_work\\DotnetMicroservices\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )"
