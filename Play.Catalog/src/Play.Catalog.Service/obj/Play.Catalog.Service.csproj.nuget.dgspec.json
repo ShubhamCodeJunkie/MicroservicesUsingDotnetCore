@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "d:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\PLay.Catalog.Contracts\\PLay.Catalog.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-        "projectName": "Play.Catalog.Service",
-        "projectPath": "d:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\PLay.Catalog.Contracts\\PLay.Catalog.Contracts.csproj",
+        "projectName": "PLay.Catalog.Contracts",
+        "projectPath": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\PLay.Catalog.Contracts\\PLay.Catalog.Contracts.csproj",
         "packagesPath": "C:\\Users\\smbya\\.nuget\\packages\\",
-        "outputPath": "d:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\PLay.Catalog.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smbya\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,10 +38,68 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectName": "Play.Catalog.Service",
+        "projectPath": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "packagesPath": "C:\\Users\\smbya\\.nuget\\packages\\",
+        "outputPath": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smbya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "D:\\coding_work\\DotnetMicroservices\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\PLay.Catalog.Contracts\\PLay.Catalog.Contracts.csproj": {
+                "projectPath": "D:\\coding_work\\DotnetMicroservices\\Play.Catalog\\src\\PLay.Catalog.Contracts\\PLay.Catalog.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Play.Common": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
